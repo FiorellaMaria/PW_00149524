@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="804cbb9e-d2cf-4b69-8974-32dff7970e69" name="Changes" comment="feat: Agregar repositorio de productos">
+      <change beforePath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/ui/screen/RestaurantDetailScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/ui/screen/RestaurantDetailScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/ui/screen/RestaurantListScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/ui/screen/RestaurantListScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/ui/viewmodel/RestaurantDetailViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/ui/viewmodel/RestaurantDetailViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodSpot/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/FoodSpot/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodSpot/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodSpot/gradle/libs.versions.toml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="a1b2ca45-f80f-4dc4-afc6-86b1870953ff" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="4b889253-977e-405a-9b5b-8e1d7e275e3d" />
+            <option name="modeId" value="Ask" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="status" value="Completed" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="a1b2ca45-f80f-4dc4-afc6-86b1870953ff" />
+            <option name="modeId" value="Ask" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/narva/AndroidStudioProjects/PW_00149524" value="3Ds7nL0i8YI90gHIV4VRul5pBTo" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="agent-panel" value="Auto" />
+      <entry key="chat-panel" value="Auto" />
+    </selectedModels>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FoodSpot" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FiorellaMaria&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FiorellaMaria/PW_00149524.git&quot;,
+    &quot;accountId&quot;: &quot;c57b22af-9d53-4393-b8f3-483e2216dc4a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3Ds7nL0i8YI90gHIV4VRul5pBTo" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Ask" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="804cbb9e-d2cf-4b69-8974-32dff7970e69" name="Changes" comment="" />
+      <created>1779059094366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779059094366</updated>
+    </task>
+    <task id="LOCAL-00001" summary="feat: Agregar repositorio de productos">
+      <option name="closed" value="true" />
+      <created>1779061129673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779061129673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: Agregar repositorio de productos" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Agregar repositorio de productos" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
