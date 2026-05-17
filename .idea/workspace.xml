@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="804cbb9e-d2cf-4b69-8974-32dff7970e69" name="Changes" comment="feat: Agregar repositorio de productos">
-      <change beforePath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/ui/screen/RestaurantDetailScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/ui/screen/RestaurantDetailScreen.kt" afterDir="false" />
+    <list default="true" id="804cbb9e-d2cf-4b69-8974-32dff7970e69" name="Changes" comment="feat: Implementar arquitectura">
+      <change beforePath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/data/HarcodedRestaurantRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/data/HarcodedRestaurantRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/ui/navigation/NavGraph.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/ui/navigation/NavGraph.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/ui/screen/RestaurantListScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/ui/screen/RestaurantListScreen.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/ui/viewmodel/RestaurantDetailViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FoodSpot/app/src/main/java/com/foodspot/ui/viewmodel/RestaurantDetailViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FoodSpot/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/FoodSpot/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FoodSpot/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodSpot/gradle/libs.versions.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,18 +94,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="804cbb9e-d2cf-4b69-8974-32dff7970e69" name="Changes" comment="" />
@@ -124,12 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1779061129673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: Implementar arquitectura">
+      <option name="closed" value="true" />
+      <created>1779061878332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779061878336</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Agregar repositorio de productos" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Agregar repositorio de productos" />
+    <MESSAGE value="feat: Implementar arquitectura" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Implementar arquitectura" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
